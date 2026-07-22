@@ -7,12 +7,12 @@
 window.TOMART_CONFIG = {
   whatsapp: {
     // International format, digits only. Example UK number: 447700900123
-    number: "WHATSAPP_NUMBER",
+    number: "447584337559",
     message: "Hi Tomart Innovations, I'd like to discuss a digital project.",
   },
   contactForm: {
     // Paste a Formspree, Web3Forms, Netlify Function, or custom API URL here.
-    endpoint: "CONTACT_FORM_ENDPOINT",
+    endpoint: "https://formspree.io/f/xpqvwokd",
   },
   legal: {
     privacy: "#privacy-placeholder",
